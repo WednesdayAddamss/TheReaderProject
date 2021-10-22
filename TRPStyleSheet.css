@@ -1,0 +1,196 @@
+/* Home Page */
+body {
+  background-color: #a8a8a8;
+}
+#logo {
+  display: block;
+  height: auto;
+  width: auto;
+}
+
+.homeheading {
+  color: #2F4F4F;
+  font-family: Lucida;
+  font-stretch:ultra-expanded;
+  font-size: 40px;
+  text-align: center;
+}
+
+.one {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.bodyhome {
+  margin: 50px 50px 50px 50px;
+}
+
+.homeheading1 {
+  font-family: Lucida Handwriting;
+  font-stretch: expanded;
+  text-decoration: underline;
+}
+
+.list {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.homeheading2 {
+  font-family: Lucida Handwriting;
+  font-size: 40px;
+  color: #2F4F4F;
+  text-align: center;
+}
+
+#picture1 {
+float:right;
+height: 200px;
+width: auto;
+}
+
+.navigationbar {
+  overflow: hidden;
+  background-color: #20262B;
+}
+
+.navigationbar a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 100px;
+  text-decoration: none;
+  font-size: 30px;
+}
+.navigationbar a:hover {
+  background-color: #ddd;
+  color: #20262B;
+}
+
+.navigationbar a.active {
+  background-color: #2F4F4F;
+ color: white;
+}
+
+/* About Us Page */
+
+#read {
+  display: block;
+  height: 200px;
+  width: auto;
+}
+
+.two {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.aboutusheading1 {
+  font-family: Lucida Handwriting;
+  font-stretch: expanded;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.three {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  font-weight: bold;
+}
+.aboutusheading2 {
+  font-family: Lucida Handwriting;
+  font-stretch: expanded;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.four {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  font-weight: bold;
+}
+
+footer {
+  color: white;
+  font-size: 25px;
+  background-color: #2F4F4F;
+}
+
+/* Donate page */
+#book1 {
+  display: block;
+  height: 200px;
+  width: auto;
+}
+
+#book2 {
+  display: block;
+  height: 200px;
+  width: auto;
+}
+
+.five {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  text-align: center;
+  font-weight: bold;
+}
+
+.donateheading1 {
+  font-family: Lucida Handwriting;
+  font-stretch: expanded;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.six {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  text-align: center;
+  font-weight: bold;
+  margin: 0% 30% 10% 30%
+}
+
+#together {
+  display: block;
+  height: 300px;
+  width: auto;
+  margin: 0% 20% 0% 0%
+}
+
+.seven {
+  color:#292929;
+  font-size: 18px;
+  font-family: garamond;
+  text-rendering:optimizeSpeed;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.myform {
+  margin: 0% 0% 0% 20%;
+}
